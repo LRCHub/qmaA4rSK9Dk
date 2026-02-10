@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Pilot",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-02-10T12:25:52.092255Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lady Pilot",
+      "artist": "Neko Case",
+      "has_synced": true,
+      "path": "select/01_Lady_Pilot_Neko_Case.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pilot",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/02_Pilot_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "chap pilot",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/03_chap_pilot_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pilot",
+      "artist": "Koan",
+      "has_synced": false,
+      "path": "select/04_Pilot_Koan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Drunk Pilot and the Romantic Passenger",
+      "artist": "Eiafuawn",
+      "has_synced": true,
+      "path": "select/05_The_Drunk_Pilot_and_the_Romantic_Passenger_Eiafuawn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "52 Pilot",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/06_52_Pilot_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Test Pilot Blues",
+      "artist": "Black Francis",
+      "has_synced": true,
+      "path": "select/07_Test_Pilot_Blues_Black_Francis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monkey Pilot",
+      "artist": "The Comsat Angels",
+      "has_synced": false,
+      "path": "select/08_Monkey_Pilot_The_Comsat_Angels.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Am The Pilot",
+      "artist": "KT Tunstall",
+      "has_synced": true,
+      "path": "select/09_I_Am_The_Pilot_KT_Tunstall.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pilot",
+      "artist": "Heart",
+      "has_synced": false,
+      "path": "select/10_Pilot_Heart.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Me To The Pilot",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/11_Take_Me_To_The_Pilot_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Time Pilot",
+      "artist": "The Apples In Stereo",
+      "has_synced": false,
+      "path": "select/12_Time_Pilot_The_Apples_In_Stereo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm a Pilot",
+      "artist": "Fanfarlo",
+      "has_synced": true,
+      "path": "select/13_I'm_a_Pilot_Fanfarlo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pilot Can At The Queer Of God",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/14_Pilot_Can_At_The_Queer_Of_God_The_Flaming_Lips.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pilot",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Pilot_KEIJU.txt"
+    }
+  ]
+}
